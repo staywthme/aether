@@ -1,0 +1,249 @@
+Summary for stage3_inner.jar
+Decompiled with CFR 0.152
+
+
+aether.browser.AbeInjector
+----------------------------
+
+a(java.lang.String java.lang.String )
+  Loose catch block
+
+
+x.l
+----------------------------
+
+a(java.lang.String java.lang.String java.lang.String )
+  Loose catch block
+
+
+aether.browser.DpapiDecryptor
+----------------------------
+
+b(byte[] )
+  Loose catch block
+a(byte[] java.util.List<java.lang.String> byte[] )
+  Unable to fully structure code
+
+
+com.google.gson.internal.$Gson$Types
+----------------------------
+
+resolve(java.lang.reflect.Type java.lang.Class<?> java.lang.reflect.Type java.util.Map<java.lang.reflect.TypeVariable<?>, java.lang.reflect.Type> )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+com.github.sarxos.webcam.WebcamLock
+----------------------------
+
+write(long )
+  Unable to fully structure code
+read()
+  Unable to fully structure code
+
+
+com.github.sarxos.webcam.WebcamProcessor
+----------------------------
+
+run()
+  Loose catch block
+
+
+com.github.sarxos.webcam.WebcamStreamer
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [3[TRYBLOCK]], but top level block is 50[DOLOOP]
+
+
+com.github.sarxos.webcam.log.WebcamLogConfigurator
+----------------------------
+
+configure(java.io.File )
+  Loose catch block
+
+
+org.bridj.CRuntime
+----------------------------
+
+register(java.lang.reflect.Type org.bridj.NativeLibrary org.bridj.CRuntime$MethodCallInfoBuilder )
+  Could not resolve type clashes
+  Unable to fully structure code
+
+
+org.bridj.MethodCallInfo
+----------------------------
+
+setCallingConvention(org.bridj.ann.Convention$Style )
+  Unable to fully structure code
+
+
+org.bridj.Platform
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+
+
+org.bridj.StructUtils
+----------------------------
+
+performLayout(org.bridj.StructDescription java.lang.Iterable<org.bridj.StructFieldDescription> )
+  Unable to fully structure code
+
+
+org.bridj.relocated.org.objectweb.asm.ClassReader
+----------------------------
+
+accept(org.bridj.relocated.org.objectweb.asm.ClassVisitor org.bridj.relocated.org.objectweb.asm.Attribute[] int )
+  Unable to fully structure code
+
+
+okhttp3.internal.connection.ExchangeFinder
+----------------------------
+
+findConnection(int int int int boolean )
+  Unable to fully structure code
+
+
+okhttp3.internal.http.RetryAndFollowUpInterceptor
+----------------------------
+
+intercept(okhttp3.Interceptor$Chain )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+okhttp3.internal.Util
+----------------------------
+
+isCivilized(okhttp3.internal.io.FileSystem java.io.File )
+  Loose catch block
+
+
+okhttp3.Headers
+----------------------------
+
+checkValue(java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+okhttp3.Cookie
+----------------------------
+
+dateCharacterOffset(java.lang.String int int boolean )
+  Unable to fully structure code
+
+
+okio.PeekSource
+----------------------------
+
+read(okio.Buffer long )
+  Unable to fully structure code
+
+
+okio.Utf8
+----------------------------
+
+processUtf8CodePoints(byte[] int int kotlin.jvm.functions.Function1<? super java.lang.Integer, kotlin.Unit> )
+  Unable to fully structure code
+processUtf16Chars(byte[] int int kotlin.jvm.functions.Function1<? super java.lang.Character, kotlin.Unit> )
+  Unable to fully structure code
+
+
+okio.internal.-FileSystem
+----------------------------
+
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+collectRecursively(kotlin.sequences.SequenceScope<? super okio.Path> okio.FileSystem kotlin.collections.ArrayDeque<okio.Path> okio.Path boolean boolean kotlin.coroutines.Continuation<? super kotlin.Unit> )
+  Unable to fully structure code
+
+
+okio.internal._Utf8Kt
+----------------------------
+
+commonToUtf8String(byte[] int int )
+  Unable to fully structure code
+
+
+kotlin.collections.SlidingWindowKt
+----------------------------
+
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+
+
+kotlin.internal.PlatformImplementations
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+
+
+kotlin.jvm.JvmClassMappingKt
+----------------------------
+
+getJavaObjectType(kotlin.reflect.KClass<T> )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+kotlin.sequences.SequencesKt__SequencesKt
+----------------------------
+
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+
+
+kotlin.sequences.SequencesKt___SequencesKt
+----------------------------
+
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+
+
+kotlin.text.DelimitedRangesSequence
+----------------------------
+
+calcNext()
+  Unable to fully structure code
+
+
+kotlin.text.Regex
+----------------------------
+
+invoke(java.lang.Enum )
+  Ignored method signature, as it can't be verified against descriptor
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+
+
+kotlin.io.path.PathTreeWalk
+----------------------------
+
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+
+
+org.conscrypt.ConscryptFileDescriptorSocket
+----------------------------
+
+startHandshake()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [25[MONITOR], 36[CATCHBLOCK]], but top level block is 10[TRYBLOCK]
+
+
+org.conscrypt.OpenSSLAeadCipher
+----------------------------
+
+engineInitInternal(byte[] java.security.spec.AlgorithmParameterSpec java.security.SecureRandom )
+  Unable to fully structure code
